@@ -121,4 +121,5 @@ http://localhost:5000
 
 ## Screenshot
 
-![Screenshot](https://github.com/user-attachments/assets//Users/dishabidikar/Desktop/homepage.png)
+![Screenshot](https://github.com/user-attachments/assets/<img width="1702" height="1012" alt="homepage" src="https://github.com/user-attachments/assets/3daca6d1-b14a-4658-ab0c-d61f2c145cf4" />
+)
